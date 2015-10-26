@@ -1,0 +1,6 @@
+Buttons = x
+Black = x/4
+Red = x/8
+White = 5x/8
+White - Red = x/2 = 1020
+x= 2040

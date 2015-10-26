@@ -1,0 +1,121 @@
+f48861ca24e26a23a923ca68657079f4
+28ef36b35ae8cb1f542578f03408b512
+????????????????????????????????
+6f08c5ddcdd0be06d83aa3e0e3d5a09e
+8689391a8b93cd2d55ccf3f436eef4e2
+
+
+len(“f48861ca24e26a23a923ca68657079f4”)
+=> 32
+=> md5sum
+
+md5crack.com
+
+f48861ca24e26a23a923ca68657079f4: england
+28ef36b35ae8cb1f542578f03408b512: germany
+
+6f08c5ddcdd0be06d83aa3e0e3d5a09e: poland
+8689391a8b93cd2d55ccf3f436eef4e2: thailand
+
+a-b-c-d-e-f-g-[h-i-j-k-l-m-n-o]-p-q-r-s-t-u-v
+h:
+haiti		87b190830af9de5d8c880be5fa6c5743
+honduras	1e28fe23fb146a883e01981724113f33
+honk kong	f68341ed54badc18e20ea356e8335332
+hungary		3b4bbcb747288e1e6ede89221191781d
+
+i:
+iceland		83166cdeb7a2d9c1d591ad9d4eff4204
+india
+indonesia
+iran
+iraq
+ireland		a66f852274a441f4f9676b070c0c64db
+israel
+italy		bab4ac375adad13f5693f24fceab7903
+ivory coast
+
+j:
+jamaica
+japan		578ed5a4eecf5a15803abdc49f6152d6
+jersey
+jordan
+
+k:
+kazakhstan
+kenya
+kiribati
+korea
+kosovo
+kurdistan
+kuwait
+kyrgyzstan
+
+l:
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg	068b83b0839d8cff627bd91fdc8059fb
+
+m:
+macau
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+isle of man
+marshall islands
+martinique
+mauritania
+mauritius
+mexico
+micronesia
+moldova
+monaco		77f09e1229462ba78b6a10825319ba12
+mongolia
+montenegro
+montserrat
+morocco
+mozambique
+myanmar
+
+n:
+nagorno-karabakh
+namibia
+nauru
+nepal
+netherlands	6123486432d21179f354b970b501e518
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+niue
+norway		
+	
+o:
+oman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

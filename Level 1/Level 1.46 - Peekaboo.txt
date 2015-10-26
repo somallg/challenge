@@ -1,0 +1,15 @@
+var oOO = "The figure had its origin in the Old Kingdom and is associated with the solar deity Sekhmet, who also was the fierce war deity and protector of the pharaohs. She remained a strong figure in Egyptian religion throughout its history, even during the Amarna period's temporary exploration of monotheism.";
+var o00 = "The sphinxes were often described as Sekhmet's children. The use of heads of other animals atop the lioness body followed the titular deities of the city or region where they were built or which were prominent in the Egyptian pantheon at the time.";
+
+var o0o="";
+o0o=oo0.substring(59,60);
+o0o+=oOO.substr(46,2);
+o0o+=o00.substr(245,1);
+o0o+=o00.substr(28,1);
+o0o+=oo0.substring(177,178);
+o0o+=oOO.substr(33,1)+"r"+oOO.substring(34,36);
+
+document.write(o0o);
+
+
+underwOrld

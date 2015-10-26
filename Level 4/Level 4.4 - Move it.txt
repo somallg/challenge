@@ -1,0 +1,19 @@
+Good job! The next part is to reverse enginner the Javascript code to encrypt the string 'cracked'. Submit the cipher via GET.
+
+cracked => 
+
+
+f="";
+p=0;
+h="rankk.org";
+a="(.abcdefghijklmnopqrstuvwxyz)AB<CDEFG>HIJKLMNOPQRSTUVWXYZ;0123456789~!#$%^&*:/ {=-}\r+[]\"|,\\'";
+b="cracked";
+for(i=0;i<b.length;i++){
+	ff=b.charAt(i);
+	fg=h.charAt(p);
+	f+=a.charAt((a.indexOf(ff)-a.indexOf(fg)));//+a.length)%a.length);
+	p=(p+1)%h.length;
+}
+
+document.write(f);
+=> ?solution=vtpowft

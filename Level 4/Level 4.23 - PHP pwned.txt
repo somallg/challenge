@@ -1,0 +1,5 @@
+root:pLFNHgtH/C7FU:0:10:God:/:/bin/csh
+fred:6k/7KCFRPNVXg:508:10:& Fredericks:/usr2/fred:/bin/csh
+
+john =>
+own3d            (root)

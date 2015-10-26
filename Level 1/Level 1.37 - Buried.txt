@@ -1,0 +1,2 @@
+pdftotext -raw chaos.pdf
+the password is impossibly_obscure

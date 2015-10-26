@@ -1,0 +1,9 @@
+var key = "yz5w16dw28c34g9266j7";
+var interpret = "";
+for (x=1; x<6; x++) {
+	if (x != 5){interpret += (key.indexOf(x));}else{interpret += 7;}
+} 
+interpret += 8;
+document.write(interpret);
+
+=>?code=48111278

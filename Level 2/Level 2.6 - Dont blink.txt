@@ -1,0 +1,13 @@
+Python : bin( 0b01101011 ^ 0b01000111 ^ 0b10010101 )
+Perl : perl -e 'unpack("B*", pack("N", 0b01101011 ^ 0b01000111 ^ 0b10010101))'
+
+The solution is md5 of Geb
+Python:
+import md5
+m = md5.new()
+m.update("Geb")
+m.hexdigest()
+=> eb653cabb2c9d208cc5a55c9ee744425
+
+Perl:
+

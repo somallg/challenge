@@ -1,0 +1,17 @@
+ String encrypt(String paramString) {
+    String str1 = "";
+    String str2 = "";
+    for (int i = 0; i < paramString.length(); i++) {
+      str2 = paramString.charAt(i) + "";
+
+      if ((str2.equals("z")) || (str2.equals("Z")) || (str2.equals("9")))
+        str1 = str1 + paramString.charAt(i) + "";
+      else
+        str1 = str1 + (char)(paramString.charAt(i) + '\001');
+    }
+    return str1;
+  }
+
+iEJZWhCJ
+jFKZXiDK
+

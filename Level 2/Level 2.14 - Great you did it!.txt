@@ -1,0 +1,22 @@
+import itertools
+from sets import Set
+
+p = itertools.permutations( '123456789', 4 )
+res = ""
+
+for i in p:
+    d = int(''.join(i))
+    q = d * 9
+    if q < 9999:
+        continue
+    if '0' in str(q):
+        continue
+    t = []
+    for j in str(q) + str(d):
+        t.append(j)
+    s = Set(t)
+    if len(s) == len(str(q) + str(d)):
+        print q, d
+        res += str(q) + str(d)
+
+print res

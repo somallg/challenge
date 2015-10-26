@@ -1,0 +1,13 @@
+root:8FhBhbRzPK922:0:0:Sphinx:/root:/bin/csh
+hanaa:CNmRIXZ1FPoIQ:132:20:Hanaa Mobarz:/home/hanaa:/bin/csh
+khaled:ea431ppidVU4M:543:20:Khaled Elbassioni:/home/khaled/:/bin/tcsh
+sshd:*:22:22:Secure Shell Daemon:/var/empty:/usr/sbin/nologin
+www:*:80:80:World Wide Web Owner:/nonexistent:/usr/sbin/nologin
+
+orion7           (khaled)
+solver           (hanaa)
+ph4t3            (root)
+
+
+base b73aec016c6dec605791
+key  39cb50413a2fa266ce79

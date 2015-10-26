@@ -1,0 +1,6 @@
+http://www.showmycode.com/
+
+ if ((username == "admin") && (password == "h4cK3D")) {
+
+www.rankk.org/challenges/flashy-game.py?username=admin&password=h4cK3D
+
