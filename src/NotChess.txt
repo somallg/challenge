@@ -1,0 +1,1 @@
+openssl enc -d -base64 -in in -out out

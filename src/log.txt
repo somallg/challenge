@@ -1,0 +1,1337 @@
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 24</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>28</td><td>640</td><td>1163</td><td>Level 24 Abacinator +4</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 24</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>28</td><td>640</td><td>1236</td><td>Level 24 Abacinator +4</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 24</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>28</td><td>640</td><td>1309</td><td>Level 24 Abacinator +4</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 24</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>28</td><td>640</td><td>1382</td><td>Level 24 Abacinator +4</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 24</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>57</td><td>Level 24 Abacinator +4</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 24</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>111</td><td>Level 24 Abacinator +4</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>165</td><td>Level 24 Abacinator +4</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>240</td><td>Level 24 Abacinator +4</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>316</td><td>Level 24 Abacinator +4</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>391</td><td>Level 24 Abacinator +4</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>467</td><td>Level 24 Abacinator +4</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>542</td><td>Level 24 Abacinator +4</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>618</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>693</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>769</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>844</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>920</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>995</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>1071</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>1146</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>1222</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>1297</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>1373</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 25</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>29</td><td>660</td><td>1448</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>76</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>154</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>232</td><td>Level 25 Powderizer +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>310</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>388</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>467</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>545</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>623</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>701</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>779</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>857</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>935</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>1013</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>1091</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>1169</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>1247</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>1326</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>1404</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>30</td><td>680</td><td>1482</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>31</td><td>700</td><td>62</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>31</td><td>700</td><td>119</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>31</td><td>700</td><td>177</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>31</td><td>700</td><td>235</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 26</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>31</td><td>700</td><td>292</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 27</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>31</td><td>700</td><td>350</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 27</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>31</td><td>700</td><td>431</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 27</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>31</td><td>700</td><td>511</td><td>Level 26 Crusher +2</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 27</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>31</td><td>700</td><td>592</td><td>Level 27 Punisher +1</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 27</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<img src=img/monster.gif><p>
+<table border=1 cellpadding=4 cellspacing=0><tr><th>level</th><th>hit points</th><th>xp</th><th>weapon</th></tr>
+<tr><td>31</td><td>700</td><td>673</td><td>Level 27 Punisher +1</td></tr>
+<tr><td colspan=4>
+Inventory:<br>
+<a href=cavern.php?potion=0>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=1>Aquamarine potion +4</a><br>
+<a href=cavern.php?potion=2>Aquamarine potion +4</a><br>
+</td></tr>
+</table>
+<h2><a href=cavern.php?attack=1>Attack!</a></h2> <p><pre></pre><p></td>
+</tr></table>
+</body></html>
+
+<html>
+<head><title>Dungeon</title></head>
+<body>
+<table border=0>
+<tr valign=top>
+<td>
+<img src=img/scroll.png>
+</td>
+<td>
+<h2>Dungeon Level 27</h2><p>
+A monster blocks your path!<p>Big monster.<br>
+<
