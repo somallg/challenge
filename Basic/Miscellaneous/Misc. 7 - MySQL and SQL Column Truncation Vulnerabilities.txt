@@ -1,0 +1,40 @@
+SQL Column Truncation Vulnerabilities
+
+When user input is not checked for its length SQL Column Truncation Vulnerabilities can arise. “SQL Column Truncation Vulnerability” is the name I use to describe security problems arising from overlong input that is truncated during insertion in the database. By default MySQL will truncate strings longer than the defined maximum column width and only emit a warning. Those warnings are usually not seen by web applications and therefore not handled at all. In MySQL the sql_mode STRICT_ALL_TABLES can be activated to turn these warnings into errors but applications will run most of the time on servers that run in the default mode and even if an application uses the stricter sql_mode it should not produce this error in the first place. Therefore a length check is required.
+
+To understand why the truncation on insert can lead to security problems imagine the following application.
+
+    The application is a forum where new users can register
+    The administrator’s name is known e.g. ‘admin’
+    MySQL is used in the default mode
+    There is no application restriction on the length of new user names
+    The database column username is limited to 16 characters
+
+A potential attacker might now try to register the name ‘admin ‘, which will fail because the ‘isAlreadyRegistered’ check will result in the SQL query.
+
+SELECT * FROM user WHERE username='admin '
+
+Because MySQL does not compare strings in binary mode by default more relaxed comparison rules are used. One of these relaxations is that trailing space characters are ignored during the comparison. This means the string ‘admin    ‘ is still equal to the string ‘admin’ in the database. And therefore the application will refuse to accept the new user.
+
+If the attacker however tries the username ‘admin           x’ the application will search for it in the database and will not find it, because it is impossible to find a username with a length of 17 in a database field that has a 16 character limit. The application will accept the new username and insert it into the database. However the username column is to short for the full name and therefore it is truncated and ‘admin           ‘ is inserted into the database.
+
+The result of this is that the user table now contains two users that due to trailing spaces both will be returned when the SELECT query above is executed. At this point a potential security problem arises because now it depends on how the username is treated throughout the application. The following pseudocode for example is vulnerable.
+
+$userdata = null;
+if (isPasswordCorrect($username, $password)) {
+   $userdata = getUserDataByLogin($username);
+   ...
+}
+
+When the previous piece of code uses the SQL query
+
+SELECT username FROM users WHERE username = ? AND passhash = ?
+
+to detect if the user password is correct and then does a lookup of the user data by name a security problem manifests.
+
+SELECT * FROM users WHERE username = ?
+
+Because the attacker created the newly created admin user he knows the correct password to pass this check. And because the real admin user is first in the table it will be returned first when the user data lookup by name is executed later.
+
+
+document.forms[0].username.value="admin                              132132"

@@ -1,0 +1,4 @@
+password=prompt("Please enter the Password!","");
+if (password=="r3l4tiv3") {
+window.location.href=""+password+".php";
+}

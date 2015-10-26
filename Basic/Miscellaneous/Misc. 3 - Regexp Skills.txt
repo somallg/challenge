@@ -1,0 +1,23 @@
+reg = new RegExp("^[A-Za-z0-9]{5}");
+=> ^[A-Za-z0-9]{5}
+
+reg = new RegExp("^[^e-z0-9A-Z]+[^A-Z]{4}{?[a-z]*_?");
+=> ^[a-d]+[a-z]{4}
+
+reg = new RegExp("^[A9FbdHh5]+[T]*.{2}_?[a-z]+");
+=> ^[bd]+.{2}[a-z]+
+
+reg = new RegExp("^[^YdSeu][r]+[^r]+=?_?[aeiou]+[^pstuvwxyz]+");
+=> ^b[r]+[^r]+[aeiou]+[^pstuvwxyz]+
+
+reg = new RegExp("^(c|a|b|d)+[^A-Za-df-qs-z]{2}{?[^vCXBhq]*[^pqrst]*[a]+[^passwd]*}?");
+=> ^b[r]+[^r]+[a]+[^pstuvwxyzd]+
+
+reg = new RegExp("^.*[k0pst]$");
+=> ^b[r]+[^r]+[a]+k
+
+reg = new RegExp("^[^0-9A-Z]{5}$");
+=> ^br[^r]ak
+
+
+=> break

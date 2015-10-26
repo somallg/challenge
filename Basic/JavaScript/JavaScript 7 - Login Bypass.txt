@@ -1,0 +1,16 @@
+var base= new Array("0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z","a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z");
+var data=new Array(3);
+base.reverse();
+data[0]=base[42];
+data[1]=base[11];
+data[2]=base[17];
+data[3]=base[12];
+data[4]=base[7];
+data[5]=base[43];
+data[6]=base[6];
+password=prompt("Please enter the Password!","");
+if (password==data.join("_")){
+    window.location.href=""+password+".php";
+}
+
+ J_o_i_n_s_I_t 

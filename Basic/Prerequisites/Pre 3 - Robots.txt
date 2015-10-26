@@ -1,0 +1,8 @@
+http://www.enigmagroup.org/missions/basics/pre/3/robots.txt
+http://www.enigmagroup.org/missions/basics/pre/3//f0rk/
+User-agent:	*
+Disallow:       /f0rk/
+
+
+$username = "admin";
+$password = "f0rkblork";
