@@ -21,14 +21,17 @@
       ((zero? n) 1)
       (else (* x (^ x (sub1 n)))))))
 
+(define p
+  (lambda (la lb x)
+    (cond
+      ((or (null? la) (null? lb)) 0)
+      (else (+ (* (car la) (^ x (car lb))) (p (cdr la) (cdr lb) x))))))
+
 (define aria-curve
-  (lambda (la lb lx)
-    (define helper
-      (lambda (la lb x)
-        (cond
-          ((or (null? la) (null? lb)) 0)
-          (else (+ (* (car la) (/ 1 (add1 (car lb))) (^ x (add1 (car lb)))) (helper (cdr la) (cdr lb) x))))))
-    (- (helper la lb (car (cdr lx))) (helper la lb (car lx)))))
+  (lambda (la lb step low high)
+    (cond
+      ((>= low high) 0)
+      (else (+ (- (p la lb (+ low step)) (p la lb low)) (aria-curve la lb step (+ low step) high))))))
 
 
 (define list-char->lat
@@ -63,14 +66,17 @@
 ;        [lb (list-char->lat (string->list b))]
 ;        [lx (list-char->lat (string->list x))])
 ;    lx))
-(let ([l (read->lat)])
-  (let ([rl (reverse l)])
-    (let ([le (/ (- (length l) 2) 2)])
-      (let ([lx (cons (car rl) (cons (car (cdr rl)) '()))])
-        (let ([la (my-filter (less-than-eq le) 1 l)])
-          (let ([lb (my-filter (more-than le) 1 l)])
-            (aria-curve la lb lx)))))))
-
+;(let ([l (read->lat)])
+;  (let ([rl (reverse l)])
+;    (let ([le (/ (- (length l) 2) 2)])
+;      (let ([high (car rl)])
+;        (let ([low (car (cdr rl))])
+;          (let ([la (my-filter (less-than-eq le) 1 l)])
+;            (let ([lb (my-filter (more-than le) 1 l)])
+;             (let ([step (/ 1 8)])
+                ;high))))))))
+;                (aria-curve la lb step low high)))))))))
+(aria-curve '(1 2) '(0 1) (exact->inexact (/ 1 8)) 2 20)
             
       
 
